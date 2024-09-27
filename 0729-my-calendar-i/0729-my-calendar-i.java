@@ -1,21 +1,23 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class MyCalendar {
-    public List <int[]> calendar;
+    private List<int[]> calendar;
 
     public MyCalendar() {
         calendar = new ArrayList<>();
-        
     }
-    
+
     public boolean book(int start, int end) {
-        for(int[] s : calendar){
-            if(
-                (start< s[0] && end >s[0]) || (start == s[0]) || (start >s[0]) && start < s[1])
-            {
+
+        for (int[] event : calendar) {
+            if (start < event[1] && end > event[0]) {  
                 return false;
             }
-    
         }
-        calendar.add(new int[] {start,end});
+       
+        calendar.add(new int[] {start, end});
         return true;
     }
 }
+
