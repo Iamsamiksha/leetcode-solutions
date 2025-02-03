@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
