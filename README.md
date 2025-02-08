@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
