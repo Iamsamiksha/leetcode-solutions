@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0854-making-a-large-island](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
@@ -108,4 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
