@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Depth-First Search
@@ -127,4 +128,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
