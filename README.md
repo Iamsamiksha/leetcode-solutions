@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
