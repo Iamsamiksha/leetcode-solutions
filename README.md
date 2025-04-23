@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
