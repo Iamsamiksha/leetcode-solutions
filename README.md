@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0792-binary-search) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -177,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
