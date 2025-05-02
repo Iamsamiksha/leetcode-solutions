@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0868-push-dominoes](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0868-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0868-push-dominoes](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0868-push-dominoes) |
 ## Enumeration
 |  |
 | ------- |
