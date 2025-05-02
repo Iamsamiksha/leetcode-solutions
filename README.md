@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0868-push-dominoes](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
