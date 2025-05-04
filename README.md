@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
