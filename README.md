@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3447-clear-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0806-domino-and-tromino-tiling](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -211,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Iamsamiksha/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
